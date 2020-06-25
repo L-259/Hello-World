@@ -1,2 +1,2 @@
 # Hello-World
-Corona has internaional Travel
+Corona has stopped internaional Travel
